@@ -1,0 +1,36 @@
+# 2025-11-09 2041 Sample
+This is a example journal. With stuff inside
+
+# 2025-11-09 2041 Lorem Ipsum
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+
+# 2025-11-09 2042 mindbox:yoda-quotes my first entry
+Judge me by my size, do you?
+Do. Or do not. There is no try.
+Fear is the path to the dark side.
+
+# 2025-11-09 2047 Lorem again 
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+
+# 2025-11-09 2051 mindbox:confucius-quotes here we go
+Everything has beauty, but not everyone sees it.
+They must often change who would be constant in happiness or wisdom.
+What the superior man seeks is in himself; what the small man seeks is in others.
+
+# 2025-11-09 2053 Lorem the third
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+
+
+# 2025-11-09 2054 mindbox:yoda-quotes 
+Fear leads to anger, anger leads to hate, hate leads to suffering.
+Once you start down the dark path, forever will it dominate your destiny.
+In a dark place we find ourselves, and a little more knowledge lights our way.
+
+
+# 2025-11-09 2054 mindbox:confucius-quotes
+In a country well governed, poverty is something to be ashamed of. In a country badly governed, wealth is something to be ashamed of.
+It does not matter how slowly you go so long as you do not stop.
+When anger rises, think of the consequences.
+
+# 2025-11-09 2055 this the end
+Godby
