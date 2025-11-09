@@ -8,6 +8,7 @@ Mindbox entries follow the pattern `# YYYY-MM-DD HH:MM mindbox:<topic>` inside `
 
 ```sh
 python3 scripts/generate_mindboxes.py
+# python3 scripts/generate_mindboxes /foo/journal.txt --output /bar/mindboxes
 ```
 
 The script rewrites `mindboxes/<topic>.mb` for every topic it finds, including timestamps and source line numbers. Re-run it whenever `journal.txt` changes or wire it into a build step.
