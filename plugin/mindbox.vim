@@ -3,7 +3,7 @@ if exists('g:loaded_mindbox_plugin')
 endif
 let g:loaded_mindbox_plugin = 1
 
-let s:repo_root = expand('<sfile>:p:h:h:h')
+let s:repo_root = fnamemodify(expand('<sfile>:p:h'), ':h')
 let s:default_dir = s:repo_root . '/mindboxes'
 
 function! s:mindbox_dir() abort
