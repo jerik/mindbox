@@ -34,3 +34,447 @@ When anger rises, think of the consequences.
 
 # 2025-11-09 2055 this the end
 Godby
+
+# Di 2025-12-23 1424:21 mindbox:yoda-quotes und noch ein Eintrag
+yoda is 900 years old
+Die Macht, mit dir sei mein junger skywalker
+
+# Di 2025-12-23 1424:21 irgendweintest
+Wir sind hier und du bist hier
+
+<!-- journal.md: Sample-Journal (70 Einträge), chronologisch sortiert: älteste oben -->
+
+# 2025-10-01 2208 Sprint-Plan
+Kurzer Eintrag: heute weniger Multitasking.
+
+# 2025-10-03 1716
+To-do (kurz):
+- [ ] 1:1 vorbereiten
+- [ ] Testcases ergänzen
+- [x] Kurzreview gemacht
+
+Notiz: Langsam ist okay, solange es vorwärts geht.
+
+# 2025-10-03 2049 Spaziergang & Klarheit
+To-do (kurz):
+- [ ] Angebot prüfen
+- [ ] Monitoring prüfen
+- [x] Draft verschickt
+
+Notiz: Erst Klarheit, dann Geschwindigkeit.
+
+# 2025-10-04 0425 Meeting-Recap
+Reflexion:
+- Was hat funktioniert: Einfacher Plan
+- Was hat gestört: Unklare Zuständigkeiten
+- Nächstes Mal: Früher priorisieren
+
+# Sa 2025-10-04 0903:32 - Budget check
+Ein Satz: Prioritäten klarer als gestern.
+
+# 2025-10-05 1214 Kurznotiz
+Einzeiler: Fokus gehalten, trotz Unterbrechungen.
+
+# 2025-10-08 2237 Budget check
+Ein Satz: Prioritäten klarer als gestern.
+
+# 2025-10-09 1734 Lorem ipsum dolor sit amet
+Notizen aus dem Gespräch:
+1) Abhängigkeiten dokumentieren
+2) Datenlage prüfen
+3) Prototyp nächste Woche
+
+Nächste Schritte:
+- Tickets anlegen 
+- Mit Team abstimmen
+
+# 2025-10-10 0706 Sprint-Plan
+Kurz: zwei wichtige Punkte erledigt, Rest verschoben.
+
+# 2025-10-10 0919 Statusupdate
+Reflexion:
+- Was hat funktioniert: Einfacher Plan
+- Was hat gestört: Spontane Anfragen
+- Nächstes Mal: Puffer einbauen
+
+# 2025-10-10 1621
+Reflexion:
+- Was hat funktioniert: Vorbereitung am Vorabend
+- Was hat gestört: Spontane Anfragen
+- Nächstes Mal: Weniger Tabs offen
+
+# 2025-10-11 0510
+Einzeiler: ruhiger Tag, solide Fortschritte.
+
+# 2025-10-11 0549 Inbox Zero Versuch
+Heute lief vieles parallel, aber die wichtigsten Themen sind vorangekommen.
+
+Highlights:
+- Kundenupdate finalisiert 
+- Konzept skizziert 
+- Workout kurz gehalten 
+
+Offen:
+- Nächste Schritte priorisieren
+
+# 2025-10-12 0225
+Notiz: gut geschlafen, produktiver Vormittag.
+
+# Mo 2025-10-13 0951:57 - irgendeintext
+To-do (kurz):
+- [ ] Reisekosten einreichen
+- [ ] Testcases ergänzen
+- [x] Termin bestätigt
+
+Notiz: Nicht alles gleichzeitig.
+
+# 2025-10-14 2008 Reflexion
+Reflexion:
+- Was hat funktioniert: Konsequentes Nein-Sagen
+- Was hat gestört: Unklare Zuständigkeiten
+- Nächstes Mal: Weniger Tabs offen
+
+# 2025-10-16 0917
+Notizen aus dem Gespräch:
+1) Scope enger ziehen
+2) Akzeptanzkriterien klären
+3) Prototyp nächste Woche
+
+Nächste Schritte:
+- Follow-up Termin 
+- Mit Team abstimmen
+
+# 2025-10-16 1901
+Kurzer Eintrag: heute weniger Multitasking.
+
+# 2025-10-20 1419
+Heute lief vieles parallel, aber die wichtigsten Themen sind vorangekommen.
+
+Highlights:
+- Feature-Branch gemerged 
+- Ticket-Triage gemacht 
+- 30 Minuten Lesen 
+
+Offen:
+- Kalender bereinigen
+
+# Mi 2025-10-22 0443:02
+Kurz: zwei wichtige Punkte erledigt, Rest verschoben.
+
+# Mi 2025-10-22 1227:48
+Reflexion:
+- Was hat funktioniert: Konsequentes Nein-Sagen
+- Was hat gestört: Spontane Anfragen
+- Nächstes Mal: Mehr Delegation
+
+# Mi 2025-10-22 1639:49 - Reflexion
+Reflexion:
+- Was hat funktioniert: Vorbereitung am Vorabend
+- Was hat gestört: Zu viele Kontextwechsel
+- Nächstes Mal: Mehr Delegation
+
+# 2025-10-22 2307
+Reflexion:
+- Was hat funktioniert: Einfacher Plan
+- Was hat gestört: Unklare Zuständigkeiten
+- Nächstes Mal: Puffer einbauen
+
+# 2025-10-23 2108
+Heute lief vieles parallel, aber die wichtigsten Themen sind vorangekommen.
+
+Highlights:
+- Review vorbereitet 
+- Inbox reduziert 
+- Spaziergang eingeplant 
+
+Offen:
+- Nächste Schritte priorisieren
+
+# 2025-10-25 0138
+To-do (kurz):
+- [ ] Backlog aufräumen
+- [ ] Testcases ergänzen
+- [x] Termin bestätigt
+
+Notiz: Erst Klarheit, dann Geschwindigkeit.
+
+# So 2025-10-26 2322:41 - Statusupdate
+Notizen aus dem Gespräch:
+1) Risiken transparent machen
+2) Akzeptanzkriterien klären
+3) Kommunikation vereinfachen
+
+Nächste Schritte:
+- Entscheidung dokumentieren 
+- Offene Fragen sammeln
+
+# Mo 2025-10-27 2351:53 - Bugfix-Session
+Heute lief vieles parallel, aber die wichtigsten Themen sind vorangekommen.
+
+Highlights:
+- Kundenupdate finalisiert 
+- Inbox reduziert 
+- Früh Feierabend 
+
+Offen:
+- Nächste Schritte priorisieren
+
+# 2025-10-28 0629
+Ein Satz: Prioritäten klarer als gestern.
+
+# Di 2025-10-28 0713:52 - Gedanken zu Q4
+Mini-Log: 20 Minuten Bewegung, Kopf frei.
+
+# Mi 2025-10-29 1809:17 - Statusupdate
+Heute lief vieles parallel, aber die wichtigsten Themen sind vorangekommen.
+
+Highlights:
+- Budget abgestimmt 
+- Konzept skizziert 
+- Spaziergang eingeplant 
+
+Offen:
+- Follow-up Mail
+
+# 2025-11-02 2319
+Reflexion:
+- Was hat funktioniert: Vorbereitung am Vorabend
+- Was hat gestört: Spontane Anfragen
+- Nächstes Mal: Meeting-Agenda erzwingen
+
+# Mo 2025-11-03 0750:28 - Lorem ipsum dolor sit amet
+Heute lief vieles parallel, aber die wichtigsten Themen sind vorangekommen.
+
+Highlights:
+- Review vorbereitet 
+- Call geführt 
+- Spaziergang eingeplant 
+
+Offen:
+- Kalender bereinigen
+
+# 2025-11-03 1628 Spaziergang & Klarheit
+Einzeiler: ruhiger Tag, solide Fortschritte.
+
+# Mi 2025-11-05 0328:57
+Ein Satz: Prioritäten klarer als gestern.
+
+# 2025-11-07 0102
+Heute lief vieles parallel, aber die wichtigsten Themen sind vorangekommen.
+
+Highlights:
+- Dokumentation ergänzt 
+- Inbox reduziert 
+- Spaziergang eingeplant 
+
+Offen:
+- Risiko-Check
+
+# Fr 2025-11-07 0417:41 - Reflexion
+Reflexion:
+- Was hat funktioniert: Zeitblöcke ohne Notifications
+- Was hat gestört: Zu spät gestartet
+- Nächstes Mal: Puffer einbauen
+
+# Di 2025-11-11 0033:07
+Kurzer Eintrag: heute weniger Multitasking.
+
+# Di 2025-11-11 0608:56
+Ein Satz: Prioritäten klarer als gestern.
+
+# 2025-11-11 0745
+Notizen aus dem Gespräch:
+1) Owner festlegen
+2) QA frühzeitig planen
+3) Blocker sofort eskalieren
+
+Nächste Schritte:
+- Follow-up Termin 
+- Offene Fragen sammeln
+
+# Do 2025-11-13 2143:58
+To-do (kurz):
+- [ ] Angebot prüfen
+- [ ] Monitoring prüfen
+- [x] Entwurf gespeichert
+
+Notiz: Erst Klarheit, dann Geschwindigkeit.
+
+# 2025-11-14 2132 Spaziergang & Klarheit
+Kurzer Eintrag: heute weniger Multitasking.
+
+# 2025-11-19 0833
+Heute lief vieles parallel, aber die wichtigsten Themen sind vorangekommen.
+
+Highlights:
+- Kundenupdate finalisiert 
+- Konzept skizziert 
+- 30 Minuten Lesen 
+
+Offen:
+- Risiko-Check
+
+# 2025-11-22 0830 Gedanken zu Q4
+Heute lief vieles parallel, aber die wichtigsten Themen sind vorangekommen.
+
+Highlights:
+- Review vorbereitet 
+- Termin abgestimmt 
+- Workout kurz gehalten 
+
+Offen:
+- Offene Fragen klären
+
+# So 2025-11-23 0448:20 - Inbox Zero Versuch
+Heute lief vieles parallel, aber die wichtigsten Themen sind vorangekommen.
+
+Highlights:
+- Feature-Branch gemerged 
+- Termin abgestimmt 
+- Spaziergang eingeplant 
+
+Offen:
+- Offene Fragen klären
+
+# 2025-11-23 0547 Idee: Feature X testen
+Reflexion:
+- Was hat funktioniert: Konsequentes Nein-Sagen
+- Was hat gestört: Zu lange Meetings
+- Nächstes Mal: Weniger Tabs offen
+
+# So 2025-11-23 2120:52
+Reflexion:
+- Was hat funktioniert: Konsequentes Nein-Sagen
+- Was hat gestört: Zu spät gestartet
+- Nächstes Mal: Meeting-Agenda erzwingen
+
+# 2025-11-24 1847 Kurznotiz
+Kurz: zwei wichtige Punkte erledigt, Rest verschoben.
+
+# 2025-11-27 1205 Kurznotiz
+Notiz: gut geschlafen, produktiver Vormittag.
+
+# 2025-11-27 1456 Notizen zur Planung
+Notizen aus dem Gespräch:
+1) Owner festlegen
+2) Akzeptanzkriterien klären
+3) Kommunikation vereinfachen
+
+Nächste Schritte:
+- Zusammenfassung verschicken 
+- Mit Team abstimmen
+
+# 2025-11-28 1748
+Reflexion:
+- Was hat funktioniert: Kurze Standups
+- Was hat gestört: Unklare Zuständigkeiten
+- Nächstes Mal: Puffer einbauen
+
+# 2025-11-28 2147 Lernnotiz
+Heute lief vieles parallel, aber die wichtigsten Themen sind vorangekommen.
+
+Highlights:
+- Dokumentation ergänzt 
+- Ticket-Triage gemacht 
+- 30 Minuten Lesen 
+
+Offen:
+- Follow-up Mail
+
+# 2025-12-02 0858 Inbox Zero Versuch
+Notizen aus dem Gespräch:
+1) Owner festlegen
+2) Datenlage prüfen
+3) Entscheidung bis Freitag
+
+Nächste Schritte:
+- Tickets anlegen 
+- Mit Team abstimmen
+
+# Mi 2025-12-03 0920:25 - irgendeintext
+Einzeiler: Entscheidung getroffen und kommuniziert.
+
+# Fr 2025-12-05 2349:26 - Statusupdate
+Kurzer Eintrag: heute weniger Multitasking.
+
+# Mo 2025-12-08 0146:57 - Kurznotiz
+Reflexion:
+- Was hat funktioniert: Vorbereitung am Vorabend
+- Was hat gestört: Spontane Anfragen
+- Nächstes Mal: Mehr Delegation
+
+# 2025-12-08 0912 Statusupdate
+Ein Satz: Prioritäten klarer als gestern.
+
+# Di 2025-12-09 1926:47 - Reiseplanung
+Kurzer Eintrag: heute weniger Multitasking.
+
+# 2025-12-11 0323 Lernnotiz
+Notizen aus dem Gespräch:
+1) Owner festlegen
+2) Support einbinden
+3) Kommunikation vereinfachen
+
+Nächste Schritte:
+- Zusammenfassung verschicken 
+- Offene Fragen sammeln
+
+# Do 2025-12-11 1906:08
+To-do (kurz):
+- [ ] 1:1 vorbereiten
+- [ ] Stakeholder-Update
+- [x] Termin bestätigt
+
+Notiz: Langsam ist okay, solange es vorwärts geht.
+
+# 2025-12-12 0452 Reiseplanung
+Kurzer Eintrag: heute weniger Multitasking.
+
+# Fr 2025-12-12 0656:16 - Sprint-Plan
+Einzeiler: Fokus gehalten, trotz Unterbrechungen.
+
+# Sa 2025-12-13 2308:57 - irgendeintext
+Reflexion:
+- Was hat funktioniert: Konsequentes Nein-Sagen
+- Was hat gestört: Spontane Anfragen
+- Nächstes Mal: Puffer einbauen
+
+# 2025-12-14 1004 Entscheidung festhalten
+Kurzer Eintrag: heute weniger Multitasking.
+
+# 2025-12-18 1241 Reflexion
+Kurz: zwei wichtige Punkte erledigt, Rest verschoben.
+
+# 2025-12-18 1544 Budget check
+Reflexion:
+- Was hat funktioniert: Vorbereitung am Vorabend
+- Was hat gestört: Spontane Anfragen
+- Nächstes Mal: Meeting-Agenda erzwingen
+
+# Do 2025-12-18 2106:34
+To-do (kurz):
+- [ ] Backlog aufräumen
+- [ ] Release Notes
+- [x] Kurzreview gemacht
+
+Notiz: Heute zählt Konsistenz.
+
+# 2025-12-22 1348 Lorem ipsum dolor sit amet
+Einzeiler: Entscheidung getroffen und kommuniziert.
+
+# Mi 2025-12-24 1636:59 - Spaziergang & Klarheit
+Ein Satz: Prioritäten klarer als gestern.
+
+# Fr 2025-12-26 2155:44 - Notizen zur Planung
+To-do (kurz):
+- [ ] Reisekosten einreichen
+- [ ] Release Notes
+- [x] Draft verschickt
+
+Notiz: Nicht alles gleichzeitig.
+
+# Mo 2025-12-29 2006:14
+Reflexion:
+- Was hat funktioniert: Vorbereitung am Vorabend
+- Was hat gestört: Unklare Zuständigkeiten
+- Nächstes Mal: Puffer einbauen
