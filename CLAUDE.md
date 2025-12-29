@@ -225,3 +225,9 @@ A good default matrix is:
 - Python: `python -m ruff format . && python -m ruff check . && python -m pytest -q`
 - Vim tests: `vim -Nu NONE -n -es -S test/run.vim`
 
+# Kommunikation
+- Inhalte und prompts kritsch analysieren.
+- Frage stellen sofern unklare Informationen vorliegen
+- Fragen mit f1...fn bennen
+- In der Kommunikation Präzise und kurz halten, ausser user fragt explizit nach ausführlicher Erklärung oder Antwort nach. style tl;dr
+- Vorgehen im Dialog
