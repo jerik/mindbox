@@ -25,7 +25,7 @@ endfunction
 
 function! s:open_topic(topic) abort
   if empty(a:topic)
-    echo "Mindbox: provide a topic (use :MindboxList to inspect)."
+    echo 'Mindbox: provide a topic (use :MindboxList to inspect).'
     return
   endif
   let file = s:mindbox_resolve(a:topic)
