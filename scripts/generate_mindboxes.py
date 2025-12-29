@@ -1,16 +1,18 @@
 #!/usr/bin/env python3
 """Generate per-topic mindbox files from journal entries."""
+
 from __future__ import annotations
 
 import argparse
 import re
+from collections.abc import Iterable
 from dataclasses import dataclass, field
 from pathlib import Path
-from typing import Dict, Iterable, List, Optional
 
 ENTRY_RE = re.compile(
-    r"^#\s+(?P<date>\d{4}-\d{2}-\d{2})\s+"
-    r"(?P<time>\d{2}:\d{2}(?:[A-Za-z]+)?|\d{4})"
+    r"^#\s+(?:[A-Za-z]{2}\s+)?"  # optional weekday prefix (Mo, Di, Mi, etc.)
+    r"(?P<date>\d{4}-\d{2}-\d{2})\s+"
+    r"(?P<time>\d{4}(?::\d{2})?)"  # HHMM or HHMM:SS
     r"(?:\s+(?P<title>.*))?$"
 )
 MINDBOX_RE = re.compile(r"mindbox:(?P<topic>[^\s#]+)")
@@ -28,21 +30,21 @@ class Entry:
     date: str
     time: str
     title: str
-    topic_raw: Optional[str]
+    topic_raw: str | None
     line_no: int
-    body: List[str] = field(default_factory=list)
+    body: list[str] = field(default_factory=list)
 
     @property
     def is_mindbox(self) -> bool:
         return self.topic_raw is not None
 
     @property
-    def topic(self) -> Optional[str]:
+    def topic(self) -> str | None:
         return self.topic_raw
 
 
 def parse_entries(lines: Iterable[str]) -> Iterable[Entry]:
-    current: Optional[Entry] = None
+    current: Entry | None = None
     for idx, line in enumerate(lines, start=1):
         match = ENTRY_RE.match(line)
         if match:
@@ -65,8 +67,8 @@ def parse_entries(lines: Iterable[str]) -> Iterable[Entry]:
         yield current
 
 
-def build_mindboxes(entries: Iterable[Entry]) -> Dict[str, List[Entry]]:
-    topics: Dict[str, List[Entry]] = {}
+def build_mindboxes(entries: Iterable[Entry]) -> dict[str, list[Entry]]:
+    topics: dict[str, list[Entry]] = {}
     for entry in entries:
         if not entry.is_mindbox or entry.topic is None:
             continue
@@ -75,7 +77,7 @@ def build_mindboxes(entries: Iterable[Entry]) -> Dict[str, List[Entry]]:
     return topics
 
 
-def write_mindboxes(topics: Dict[str, List[Entry]], output_dir: Path, source_name: str) -> None:
+def write_mindboxes(topics: dict[str, list[Entry]], output_dir: Path, source_name: str) -> None:
     output_dir.mkdir(parents=True, exist_ok=True)
 
     desired = set(topics.keys())
