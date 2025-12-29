@@ -2,9 +2,22 @@
 
 This repo keeps a plain-text journal plus tooling to extract "mindbox" knowledge snippets and browse them from Vim (like mini help files).
 
+## Journal Entry Format
+
+Mindbox entries follow this pattern inside `journal.txt`:
+
+```
+# YYYY-MM-DD HHMM mindbox:<topic> [optional title]
+```
+
+Variants supported:
+- Weekday prefix: `# Mo 2025-12-23 1424 mindbox:topic`
+- Optional seconds: `# Di 2025-12-23 1424:21 mindbox:topic`
+- Combined: `# Fr 2025-12-26 2155:44 mindbox:notes My Title`
+
 ## Generating mindboxes
 
-Mindbox entries follow the pattern `# YYYY-MM-DD HH:MM mindbox:<topic>` inside `journal.txt`. Run:
+Run:
 
 ```sh
 python3 scripts/generate_mindboxes.py
@@ -48,3 +61,32 @@ After installing, restart Vim (or `:source` your config). The plugin automatical
 3. In Vim, use `:MindboxList` to discover topics, `:Mindbox topic-name` to read them, and `:MindboxSearch keyword` to jump via the quickfix list.
 
 Everything stays text-based and cross-platform, so the same workflow works on macOS, Linux, and Windows.
+
+## Development
+
+### Requirements
+
+- Python 3.9+
+- [ruff](https://github.com/astral-sh/ruff) (linting/formatting)
+- [pytest](https://pytest.org/) (Python tests)
+- [vint](https://github.com/Vimjas/vint) (Vimscript linting)
+
+### Running Tests
+
+```sh
+# Python tests
+python -m pytest -q
+
+# Vim tests (headless)
+vim -Nu NONE -n -es -S test/run.vim
+
+# Linting
+python -m ruff format . && python -m ruff check .
+vint plugin/
+```
+
+### All checks (before commit)
+
+```sh
+python -m ruff format . && python -m ruff check . && python -m pytest -q && vint plugin/ && vim -Nu NONE -n -es -S test/run.vim
+```

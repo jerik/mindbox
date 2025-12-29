@@ -433,7 +433,7 @@ Kurzer Eintrag: heute weniger Multitasking.
 # Fr 2025-12-12 0656:16 - Sprint-Plan
 Einzeiler: Fokus gehalten, trotz Unterbrechungen.
 
-# Sa 2025-12-13 2308:57 - irgendeintext
+# Sa 2025-12-13 2308:57 mindbox:Lorem irgendeintext
 Reflexion:
 - Was hat funktioniert: Konsequentes Nein-Sagen
 - Was hat gestört: Spontane Anfragen
@@ -459,13 +459,13 @@ To-do (kurz):
 
 Notiz: Heute zählt Konsistenz.
 
-# 2025-12-22 1348 Lorem ipsum dolor sit amet
+# 2025-12-22 1348 mindbox:Lorem ipsum dolor sit amet
 Einzeiler: Entscheidung getroffen und kommuniziert.
 
 # Mi 2025-12-24 1636:59 - Spaziergang & Klarheit
 Ein Satz: Prioritäten klarer als gestern.
 
-# Fr 2025-12-26 2155:44 - Notizen zur Planung
+# Fr 2025-12-26 2155:44 mindbox:Notizen zur Planung
 To-do (kurz):
 - [ ] Reisekosten einreichen
 - [ ] Release Notes
