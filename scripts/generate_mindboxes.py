@@ -93,7 +93,7 @@ def write_mindboxes(topics: dict[str, list[Entry]], output_dir: Path, source_nam
             fh.write(f"*{helptag}* Mindbox topic: {display_topic}\n")
             fh.write("=" * 79 + "\n")
             for entry in reversed(entries):
-                header = f"{entry.date} {entry.time} ({source_name}:{entry.line_no})"
+                header = f"# {entry.date} {entry.time} ({source_name}:{entry.line_no})"
                 fh.write(header + "\n")
                 if entry.title:
                     fh.write(f"Title: {entry.title}\n")

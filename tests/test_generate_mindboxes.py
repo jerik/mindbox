@@ -155,7 +155,7 @@ class TestWriteMindboxes:
 
         content = mb_file.read_text()
         assert "*mindbox-test-topic*" in content
-        assert "2025-01-01 1000" in content
+        assert "# 2025-01-01 1000" in content
         assert "Body line" in content
         assert content.rstrip("\n").endswith("# vim: ft=plog:")
 
