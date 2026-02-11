@@ -92,8 +92,8 @@ def write_mindboxes(topics: dict[str, list[Entry]], output_dir: Path, source_nam
         with path.open("w", encoding="utf-8") as fh:
             fh.write(f"*{helptag}* Mindbox topic: {display_topic}\n")
             fh.write("=" * 79 + "\n")
-            for entry in entries:
-                header = f"{entry.date} {entry.time} ({source_name}:{entry.line_no})"
+            for entry in reversed(entries):
+                header = f"# {entry.date} {entry.time} ({source_name}:{entry.line_no})"
                 fh.write(header + "\n")
                 if entry.title:
                     fh.write(f"Title: {entry.title}\n")
@@ -101,6 +101,7 @@ def write_mindboxes(topics: dict[str, list[Entry]], output_dir: Path, source_nam
                     for body_line in entry.body:
                         fh.write(body_line + "\n")
                 fh.write("\n")
+            fh.write("# vim: ft=plog:\n")
 
 
 def main() -> None:
