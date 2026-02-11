@@ -157,6 +157,21 @@ class TestWriteMindboxes:
         assert "*mindbox-test-topic*" in content
         assert "2025-01-01 1000" in content
         assert "Body line" in content
+        assert content.rstrip("\n").endswith("# vim: ft=plog:")
+
+    def test_entries_in_reverse_order(self, tmp_path):
+        """Test that entries appear newest-first in generated files."""
+        entries = [
+            Entry("2025-01-01", "1000", "mindbox:topic first", "topic", 1, ["old"]),
+            Entry("2025-06-15", "1400", "mindbox:topic second", "topic", 5, ["new"]),
+        ]
+        topics = build_mindboxes(entries)
+        write_mindboxes(topics, tmp_path, "journal.txt")
+
+        content = (tmp_path / "topic.mb").read_text()
+        pos_new = content.index("2025-06-15 1400")
+        pos_old = content.index("2025-01-01 1000")
+        assert pos_new < pos_old, "Newest entry should appear before oldest"
 
     def test_removes_stale_files(self, tmp_path):
         """Test that old .mb files not in current topics are removed."""
